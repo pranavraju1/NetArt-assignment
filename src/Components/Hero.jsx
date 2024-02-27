@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <div className="hero">
       <div className="awarddiv">
-        <img className="award" src="award.png" alt="" />
+        <img className="award" src="award-min.png" alt="" />
       </div>
       <div className="info">
         <div>
@@ -31,7 +31,7 @@ const Hero = () => {
           </p>
         </div>
         <div className="givediv">
-          <img className="awardgiv" src="awardgiv.png" alt="" />
+          <img className="awardgiv" src="awardgiv-min.png" alt="" />
         </div>
         <div>
           Government of India has awarded the{" "}

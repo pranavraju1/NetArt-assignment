@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <div className="navbar">
-      <img src="logo.png" alt="" />
+      <img src="logo-min.png" alt="" />
     </div>
   );
 };
